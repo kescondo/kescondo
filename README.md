@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Hello! I'm Kristina (she/her), and I'm starting my journey to become a software developer. 
-- 🌱 I’m currently learning... everything! This is all totally new for me. 
-- 🔭 Right now, I'm getting familiar with JavaScript, HTML, and CSS.
+- 🌱 I’m currently learning Java! This is all totally new for me. 
+- 🔭 Right now, I'm somewhat familiar with JavaScript.
 - ⚡ I'm excited to collaborate, and I welcome constructive feedback on my work!

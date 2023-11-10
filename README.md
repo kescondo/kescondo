@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Hello! I'm Kristina (she/her), and I'm enrolled in a full-stack bootcamp to start my journey to become a software developer. 
-- 🔭 I'm currently working on a home management app that tracks family to-do lists, schedules, and a weekly meal plan using Java, SQL, and the Spring framework.
-- 💬 I've got a good grasp on Java, SQL, and am somewhat familiar with JavaScript.
+- 🔭 I'm currently working on a home management app that tracks family to-do lists, schedules, and a weekly meal plan using Java, SQL, and web APIs.
+- 💬 I've got a good grasp on Java, SQL, and am currently sharpening my HTML/CSS and JavaScript skills.
 - 🤔 I’d love help with understanding how the Spring framework pulls together the client-side and server-side.
-- 🌱 I’m currently learning HTML, CSS, Vue.js, and strengthening my skills in JavaScript.
+- 🌱 I’ll be learning Vue.js soon!
 - ⚡ I'm excited to collaborate, and I welcome constructive feedback!

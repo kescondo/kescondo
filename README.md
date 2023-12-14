@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Hello! I'm Kristina (she/her), and I'm enrolled in a full-stack bootcamp to start my journey to become a software developer. 
-- 🔭 I'm currently working on a home management app that tracks family to-do lists, schedules, and a weekly meal plan using Java, SQL, and web APIs.
-- 💬 I've got a good grasp on Java, SQL, and am currently sharpening my HTML/CSS and JavaScript skills.
-- 🤔 I’d love help with understanding how the Spring framework pulls together the client-side and server-side.
-- 🌱 I’ll be learning Vue.js soon!
+- 😄 Hello! I'm Kristina (she/her), and I just finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
+- 👯 Using Java, SQL, and Vue.js, my team and I just finished building a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan.
+- 🔭 I'm currently working on a home management app that will track family to-do lists, schedules, and find local family-friendly activities.
+- 💬 My tech stack includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  
+- 🌱 After graduation, I'm hoping to familiarize myself with React and Mongo.
 - ⚡ I'm excited to collaborate, and I welcome constructive feedback!

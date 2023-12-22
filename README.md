@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 👯 Using Java, SQL, and Vue.js, my team and I just finished building a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan.
 - 🔭 I'm currently working on a home management app that will track family to-do lists, schedules, and find local family-friendly activities.
 - 💬 My tech stack includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  
-- 🌱 After graduation, I'm hoping to familiarize myself with React and Mongo.
-- ⚡ I'm excited to collaborate, and I welcome constructive feedback!
+- 🌱 I'm currently learning Kotlin; React and Mongo DB are next on the list!
+- ⚡ I'm interested in front-end, full-stack, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!

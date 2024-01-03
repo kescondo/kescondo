@@ -1,5 +1,6 @@
-# Final Capstone: Chef's Compass, Meal Planning Application
-## Team Juliett (Tech Elevator Cbus cohort[21], 2023): 
+# Chef's Compass, Meal Planning Application
+### Tech Elevator Cbus cohort[21], 2023, Final capstone
+### Team Juliett : 
 - D. Whitaker
 - T. Schweyer
 - R. Fogel
@@ -7,6 +8,7 @@
 ​
 ## Description
 Our meal planning application allows users to search for recipes using a web API (Spoonacular) and, if they wish, browse recipes by diet style. Logged in users are also able to save recipes to their own library, as well as create and modify daily meal plans. 
+### Note: Please keep in mind that the application screenshots and description included here refers to a capstone project that was built in two weeks.
 
 ## Technologies used
 - Java

@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Hello! I'm Kristina (she/her), and I just finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
+- 📫 Personal coding goal: at least one commit per day 5 days/week to keep up my coding skills.
 - 👯 Using Java, SQL, and Vue.js, my team and I just finished building a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan.
 - 🔭 I'm currently working on a home management app that will track family to-do lists, schedules, a caregiver's timesheet, and *stretch-goal!) find local family-friendly activities.
 - 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  

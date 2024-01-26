@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Hello! I'm Kristina (she/her), and I just finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
+- 😄 Hello! I'm Kristina (she/her), and I recently finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
 - 📫 Personal coding goal: at least one commit per day 5 days/week to keep up my coding skills.
-- 👯 Using Java, SQL, and Vue.js, my team and I just finished building a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.
-- 🔭 I'm currently working on a home management app that will track family to-do lists, schedules, a caregiver's timesheet, and *stretch-goal!) find local family-friendly activities.
+- 👯 Final capstone: Using Java, SQL, and Vue.js, my team and I built a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.
+- 🔭 Side projects in progress:
+  * Home management app: this will track family to-do lists, schedules, a caregiver's timesheet, and *stretch-goal!) find local family-friendly activities.
+  * Tech stack: Java, SQL, Vue
+    - [x] To-do lists 
+    - [ ] Schedule
+    - [ ] Timesheet
+  * Candy shop app: reworking a mini-capstone project that originally used a CLI so that it's a full-stack application.
+  * Tech stack: Java, SQL, Angular
+    - [x] Built database tables for user stories (below)
+    - [x] Wrote DAOs, Controller methods, APIs (tested in Postman) for user stories
+    - [ ] View list of available candies
+    - [ ] View candy detail
 - 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  
 - 🌱 I'm currently learning Angular and am working through the Homes tutorial on Angular.io. React and Kotlin are next!
 - ⚡ I'm interested in front-end, full-stack, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!

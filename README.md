@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ### Tech stack / learning
 - 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  
 - 🌱 I'm currently learning Angular (and, by extension, TypeScript). I finished the Homes tutorial and am now working through the Tour of Heroes tutorial on Angular.io.
+- 🌱 I also just started learning React and am working through the Tic-Tac-Toe tutorial on React.dev.
+- ✨ I'm keeping my coding skills strong by working through problems on CodeSignal.
 
 ### Projects
 - 👯 Final capstone: Using Java, SQL, and Vue.js, my team and I built a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.

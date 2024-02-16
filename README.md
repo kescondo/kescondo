@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **kescondo/kescondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Intro
 - 😄 Hello! I'm Kristina (she/her), and I recently finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
-- 📫 Personal 2024 coding goal: at least one commit per day 5 days/week to keep up my coding skills.
-- 👯 Final capstone: Using Java, SQL, and Vue.js, my team and I built a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.
+- 📫 Personal 2024 coding goal: at least one commit OR 3 coding problems per day 5 days/week to keep up my coding skills.
+- ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!
+  
+### Tech stack / learning
 - 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  
 - 🌱 I'm currently learning Angular (and, by extension, TypeScript). I finished the Homes tutorial and am now working through the Tour of Heroes tutorial on Angular.io.
+
+### Projects
+- 👯 Final capstone: Using Java, SQL, and Vue.js, my team and I built a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.
 - 🔭 Side projects in progress:
   * Home management app: this will track family to-do lists, schedules, a caregiver's timesheet, and *stretch-goal!) find local family-friendly activities.
   * Tech stack: Java, SQL, Vue (JavaScript)
@@ -33,4 +38,3 @@ Here are some ideas to get you started:
     - [x] Created Home page component in Angular
     - [ ] Connect front and backend
     - [ ] View list of available candies
-- ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!

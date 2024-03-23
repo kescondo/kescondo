@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 - ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!
   
 ### Tech stack / learning
-- 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.  
+- 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.
+- ✨ I'm keeping my coding skills strong by working through problems on CodeSignal.
+- ✨ I'm also strengthening my foundational knowledge by working through courses on Codecademy Pro. [Get 50% off an annual plan here!](https://codecademy.referralrock.com/l/KRISTINA77/)
 - 🌱 I'm currently learning Angular (and, by extension, TypeScript). I finished the Homes tutorial and am now working through the Tour of Heroes tutorial on Angular.io.
 - 🌱 I also just started learning React and finished the Tic-Tac-Toe tutorial on React.dev. 
-- ✨ I'm keeping my coding skills strong by working through problems on CodeSignal.
 
 ### Projects
 - 👯 Final capstone: Using Java, SQL, and Vue.js, my team and I built a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.

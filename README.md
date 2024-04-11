@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!
   
 ### Tech stack / learning
-- 💬 My tech stack presently includes Java, Spring Boot, SQL, HTML/CSS, and Vue.js.
+- 💬 My tech stack presently includes Java, SQL, HTML/CSS, JavaScript, and Vue.js.
 - ✨ I'm keeping my coding skills strong by working through problems on CodeSignal.
 - ✨ I'm also strengthening my foundational knowledge by working through courses on Codecademy Pro. [Get 50% off an annual plan here!](https://codecademy.referralrock.com/l/KRISTINA77/)
 - 🌱 I'm currently learning Angular (and, by extension, TypeScript). I finished the Homes tutorial and am now working through the Tour of Heroes tutorial on Angular.io.

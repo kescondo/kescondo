@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Intro
-- 😄 Hello! I'm Kristina (she/her), and I recently finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
-- 📫 Personal coding/learning goal: Complete 1 part of Full Stack Open approximately every two weeks.
+- 😄 Hello! I'm Kristina (she/her), and I finished my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp, in December 2023. While my original goal was to start my journey as a software developer, this journey is on pause for a few months due to personal circumstances. 
+- 📫 To keep my skills sharp and keep learning, I will be working through [Full Stack Open](https://fullstackopen.com/en/) to learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
 - ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!
   
 ### Tech stack / learning
 - 💬 Current tech stack: Java, SQL, HTML/CSS, JavaScript, and Vue.js.
 - ⚡ Familiarity with Angular: Completed both Homes and Tour of Heroes tutorials on Angular.io.
-- 🌱 May 2024: I just started working through [Full Stack Open](https://fullstackopen.com/en/) to learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+- 🌱 Personal coding/learning goal: Complete 1 part of Full Stack Open approximately every two weeks.
   * Current progress: Part 0/14
 - ✨ Some of my favorite practice sites: CodeSignal, CodeWars, Codecademy Pro. [Get 50% off an annual plan here!](https://codecademy.referralrock.com/l/KRISTINA77/)
   

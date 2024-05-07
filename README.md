@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 ### Intro
 - 😄 Hello! I'm Kristina (she/her), and I recently finished up my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp. I'm excited to start my journey as a software developer and would love to connect!
-- 📫 Personal 2024 coding goal: at least one commit OR 3 coding problems per day 5 days/week to keep up my coding skills.
+- 📫 Personal coding/learning goal: Complete 1 part of Full Stack Open approximately every two weeks.
 - ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!
   
 ### Tech stack / learning
-- 💬 My tech stack presently includes Java, SQL, HTML/CSS, JavaScript, and Vue.js.
-- ✨ I'm keeping my coding skills strong by working through problems on CodeSignal.
-- ✨ I'm also strengthening my foundational knowledge by working through courses on Codecademy Pro. [Get 50% off an annual plan here!](https://codecademy.referralrock.com/l/KRISTINA77/)
-- 🌱 I'm currently learning Angular (and, by extension, TypeScript). I finished the Homes tutorial and am now working through the Tour of Heroes tutorial on Angular.io.
-- 🌱 I also just started learning React and finished the Tic-Tac-Toe tutorial on React.dev. 
-
+- 💬 Current tech stack: Java, SQL, HTML/CSS, JavaScript, and Vue.js.
+- ⚡ Familiarity with Angular: Completed both Homes and Tour of Heroes tutorials on Angular.io.
+- 🌱 May 2024: I just started working through [Full Stack Open](https://fullstackopen.com/en/) to learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
+  * Current progress: Part 0/14
+- ✨ Some of my favorite practice sites: CodeSignal, CodeWars, Codecademy Pro. [Get 50% off an annual plan here!](https://codecademy.referralrock.com/l/KRISTINA77/)
+  
 ### Projects
 - 👯 Final capstone: Using Java, SQL, and Vue.js, my team and I built a meal planning app end-to-end that allows public users to search for recipes using a web API. Authenticated users can also save recipes to their library and create and modify a daily meal plan. See a description and some screen shots of this work in the MEALPLAN_README.md file.
 - 🔭 Side projects in progress:

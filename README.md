@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Intro
-- 😄 Hello! I'm Kristina (she/her), and I finished my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp, in December 2023. While my original goal was to start my journey as a software developer, this journey is on pause for a few months due to personal circumstances. 
+- 😄 Hello! I'm Kristina (she/her), and I finished my program at Tech Elevator, a 14-week in-person full-stack coding bootcamp, in December 2023. My goal is to start my journey as a software developer, although this journey is on pause for a few months due to personal circumstances. 
 - 📫 To keep my skills sharp and keep learning, I am currently learning [TypeScript on Codecademy](https://www.codecademy.com/learn/learn-typescript).
 - ⚡ I'm interested in full-stack, front-end, or mobile development. I'm excited to collaborate, and I welcome constructive feedback!
   
